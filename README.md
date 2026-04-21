@@ -12,6 +12,7 @@ A powerful starter template for Next.js 16 projects, featuring:
 - Integrated Drizzle ORM for easy database interactions.
 - Ready-to-use Supabase setup.
 - Scalable and modern tech stack.
+- Self Hostable
 
 ## Getting Started
 
